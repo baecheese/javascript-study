@@ -38,7 +38,7 @@ window.location.href = “이동하려는 URL”
 ##### document.styleSheets
 * css에 반영된 것들 정보
 
-## 3. CSS
+## [3. CSS](https://github.com/baecheese/javascript-study/tree/master/3st-CSS)
 ### 문법
 ``` css
 selector { property_name : value; ... }
@@ -80,7 +80,7 @@ p {
 	* 우선순위 3 : link를 통해 외부 파일에서 정의된 스타일
 
 
-## 4. Document Object Model (DOM)
+## [4. Document Object Model (DOM)](https://github.com/baecheese/javascript-study/tree/master/4st-Document_Object_Model)
 * 컴퓨터가 문서를 잘 처리할 수 있도록 문서 구조를 약속한 것
 	* 자바스크립트를 통해 HTML문서에 접근 가능한 이유는 HTML 문서 DOM(Document Object Model)에 따라 기술되고, 이 DOM인터페이스를 통해 기술된 HTML가 객체로서 자바스크립트에 연결
 ### Tree 
@@ -113,7 +113,7 @@ p {
 	* .nextElementSibling
 	* .previousElementSibling
 
-## 5. Document API
+## [5. DOM - Select-Element](https://github.com/baecheese/javascript-study/tree/master/5st-DOM-Select-Element)
 ### 문서의 Element를 선택하는 방법
 * document.getElementBy~ : 단일 엘리먼트를 선택하는 메소드
 	* .getElementByID : 해당하는 id에 대한 태그가 반환
